@@ -1,0 +1,21 @@
+body{
+  background-image: url(https://i.ytimg.com/vi/zzbCEF37MfU/maxresdefault.jpg);
+	margin: 0 auto;
+	width: 980px;
+	font-family: Arial;
+}
+#result{
+	background-color: #BBB7B7;
+	color: black;
+	border: 1px solid;
+	padding: 2px;
+}
+button{
+	background-color: #008CBA;
+	color: #FFFFFF;
+	display: inline-block;
+	border: none;
+	border-radius: 10px;
+	padding: 10px;
+
+}
